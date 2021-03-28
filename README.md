@@ -1,2 +1,2 @@
-# Geologist
-Enjoy the game :)
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
